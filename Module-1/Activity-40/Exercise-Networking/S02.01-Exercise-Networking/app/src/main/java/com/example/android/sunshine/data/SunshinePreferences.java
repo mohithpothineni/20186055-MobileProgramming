@@ -126,7 +126,7 @@ public class SunshinePreferences {
         return false;
     }
 
-    public static String getDefaultWeatherLocation() {
+    private static String getDefaultWeatherLocation() {
         /** This will be implemented in a future lesson **/
         return DEFAULT_WEATHER_LOCATION;
     }
